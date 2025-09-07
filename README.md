@@ -12,21 +12,12 @@ Transaction Variety: Enable various transactions, including deposit, withdrawal,
 Transaction History: Maintain a chronological record of user transactions for reference.
 PIN Management: Facilitate PIN changes for enhanced security.
 Graceful Exit: Offer a clean exit option for users to leave the application.
-Getting Started
 
 
 
 
 
-To run the ATM Simulator System locally, follow these steps:
 
-Make sure you have the Java Development Kit (JDK) installed.
-Clone this repository to your local machine or download it as a ZIP file.
-Navigate to the project directory in your terminal.
-Compile the Java source files using the following command:
-javac *.java
-Run the application using the following command:
-java login
 
 
 
